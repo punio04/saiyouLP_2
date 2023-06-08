@@ -9406,7 +9406,7 @@
         content: '' !important;
         position: absolute !important;
         top: 30% !important;
-        left: 260px !important;
+        left: 242px !important;
         width: 28px !important;
         height: 28px !important;
         background-color: #f2f2f2 !important;
@@ -9612,7 +9612,7 @@
     .imgIcon-left2 .imgIcon-txt {
       width: 100%;
       padding: 0 10px 0 50px;
-      background: url(../img/a.svg) top left no-repeat;
+      background: url(img/a.png) top left no-repeat;
       box-sizing: border-box;
     }
 
@@ -9709,6 +9709,7 @@
         font-size: 20px;
         margin-top: 50px
       }
+
       .members_txt {
         font-size: 13px;
       }
@@ -9718,13 +9719,13 @@
         padding-left: 13px;
       }
 
-    .small_font {
-      text-align: center;
-      font-size: 10px;
-    }
+      .small_font {
+        text-align: center;
+        font-size: 10px;
+      }
 
-    .se_inner {
-      padding: 15px 20px 0px;
-      margin: 0 auto;
-    }
+      .se_inner {
+        padding: 15px 20px 0px;
+        margin: 0 auto;
+      }
     }
