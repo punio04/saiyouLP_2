@@ -9278,6 +9278,7 @@
 
       .mainkiji p {
         margin-top: 0px !important;
+        font-size: 16px!important;
       }
 
     }
@@ -9438,7 +9439,7 @@
     }
 
     .surround.boader li {
-      font-size: 20px!important;
+      font-size: 20px;
     }
 
     .surround {
