@@ -9115,7 +9115,7 @@
     .arrow_r_b {
       padding: 20px 0;
       font-size: 25px;
-      width: 50%;
+      width: 65%;
       letter-spacing: 1px !important;
       text-shadow: 1px 1px 3px #247017 !important;
       font-weight: bolder;
@@ -9137,7 +9137,7 @@
       height: 0 !important;
       position: absolute !important;
       top: 50% !important;
-      right: 31px !important;
+      right: 41px !important;
       transform: translateY(-50%) !important;
     }
 
@@ -9212,7 +9212,7 @@
       }
 
       .arrow_r_b {
-        width: 80%;
+        width: 92%;
         line-height: initial;
         font-size: 17px;
         position: relative;
@@ -9392,7 +9392,7 @@
       content: '' !important;
       position: absolute !important;
       top: 31% !important;
-      left: 365px;
+      left: 480px;
       width: 32px !important;
       height: 32px !important;
       background-color: #f2f2f2 !important;
@@ -9413,7 +9413,7 @@
         height: 0 !important;
         position: absolute !important;
         top: 51% !important;
-        right: 23px !important;
+        right: 20px !important;
         transform: translateY(-50%) !important;
       }
 
@@ -9421,7 +9421,7 @@
         content: '' !important;
         position: absolute !important;
         top: 30% !important;
-        left: 242px !important;
+        left: 288px !important;
         width: 28px !important;
         height: 28px !important;
         background-color: #f2f2f2 !important;
