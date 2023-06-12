@@ -853,12 +853,12 @@
     }
 
     .column-narrow .content-in {
-      width: 900px!important;
+      width: 900px !important;
     }
 
     @media screen and (max-width:760px) {
       .column-narrow .content-in {
-        width: auto!important;
+        width: auto !important;
       }
     }
 
@@ -9254,10 +9254,11 @@
         text-align: left !important;
         width: 90% !important;
         margin: 0 auto !important;
-        font-size: 14px!important;
+        font-size: 14px !important;
       }
-      .mainkiji  p {
-        font-size: 14px!important;
+
+      .mainkiji p {
+        font-size: 14px !important;
       }
 
       .surround.boader li {
@@ -9265,7 +9266,7 @@
       }
 
       .komidashi11 {
-        font-size: 20px!important;
+        font-size: 20px !important;
       }
 
       .mainkiji img {
@@ -9278,7 +9279,7 @@
 
       .mainkiji p {
         margin-top: 0px !important;
-        font-size: 16px!important;
+        font-size: 16px !important;
       }
 
     }
@@ -9354,7 +9355,7 @@
 
     @media screen and (max-width: 480px) {
       .komidashi06 {
-        font-size: 20px!important;
+        font-size: 20px !important;
         padding: 12px 10px;
         margin: 30px 0 20px 0 !important;
       }
@@ -9755,4 +9756,8 @@
       font-weight: 800;
       font-size: 0.9em;
       text-align: center;
+    }
+
+    html {
+      scroll-behavior: smooth;
     }
