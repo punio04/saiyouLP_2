@@ -9761,3 +9761,7 @@
     html {
       scroll-behavior: smooth;
     }
+
+    .img-size {
+      margin: 0 20px;
+    }
